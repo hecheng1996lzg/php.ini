@@ -1,4 +1,7 @@
 # php.ini
+[中文完整参考](https://github.com/HeDefine/PHP.ini-for-Chinese/blob/master/php.ini)
+
+---
 
 >PHP 一般有 两个 INI 文件.  
 一个用于生产环境(production)，一个用于开发环境(development)
